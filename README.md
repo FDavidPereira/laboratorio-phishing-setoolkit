@@ -96,6 +96,20 @@ O laboratório demonstrou com sucesso:
 
 > As evidências publicadas neste repositório devem ocultar endereços de rede, senhas e qualquer outra informação sensível.
 
+## Evidências do laboratório
+
+### Página educacional executada localmente
+
+A página **Social Lab** foi criada para demonstrar o funcionamento do formulário em um ambiente controlado. Ela apresenta um aviso explícito para que nenhum dado real seja utilizado.
+
+![Página educacional Social Lab](images/pagina-social-lab.png)
+
+### Encerramento do SEToolkit
+
+Após a validação, o servidor foi interrompido e a ferramenta encerrada, reduzindo a exposição do serviço na rede local.
+
+![SEToolkit encerrado após o laboratório](images/encerramento-setoolkit.png)
+
 ## Como reconhecer e evitar phishing
 
 - Verifique cuidadosamente o domínio antes de informar dados.
